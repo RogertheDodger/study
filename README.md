@@ -4,7 +4,7 @@
 
 **TIER 1 - INTRO TO PROGRAMMING**
 
-- [ ] [**YDKJS: Up & Going**](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
+- [x] [**YDKJS: Up & Going**](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)    
 - [ ] [**CS50**](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 - [ ] [**YDKJS: Scope & Closures**](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) 
 - [ ] [**Learn to Code HTML & CSS**](http://learn.shayhowe.com/html-css/)    
