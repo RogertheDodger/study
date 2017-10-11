@@ -9,12 +9,12 @@ void verify();
 int main(void)
 {
     printf("What is your credit card number?\n");
-    long long int card_num = get_long_long();
+    long long card_num = get_long_long();
 
     verify(card_num);
 }
 
-void verify(long long int n)
+void verify(long long n)
 {
     int sum = 0;
     int position = 0;
@@ -109,7 +109,7 @@ void verify(long long int n)
     }
 }
 
-int get_length(long long int n)
+int get_length(long long n)
 {
     if (n >= 1000000000000000)
     {
